@@ -1,6 +1,6 @@
 ---
 title: Nächste Version des Dokumentationsthemas für Jekyll
-permalink: index.html
+permalink: deindex.html
 sidebar: generic_de
 topnav: topnav_de
 ---

@@ -71,7 +71,7 @@ exclude:
 ########## UI text ###############
 
 uistring:
-    title: Jekyll Dokumentation Theme # Displays as site title on top nav bar and on site metadata
+    title: مستندات زبان برنامه‌نویسی آقای هاشمی # Displays as site title on top nav bar and on site metadata
     description: Dokumentationsthema für Jekyll-Webseiten # Displays as site description meta
     search_placeholder: Suche ...
     minitoc_title: Inhaltsverzeichnis
